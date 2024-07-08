@@ -39,10 +39,10 @@
       <td align="center"><img src="https://avatars.githubusercontent.com/alsrudursla" width="100" height="100" /></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Iaminjae">전민제</a></td>
-      <td align="center"><a href="https://github.com/longrunBiin">장수빈</a></td>
-      <td align="center"><a href="https://github.com/jun23314">이준희</a></td>
-      <td align="center"><a href="https://github.com/alsrudursla">이민경</a></td>
+      <td align="center"><a href="https://github.com/Iaminjae">이다윤</a></td>
+      <td align="center"><a href="https://github.com/somflower">김미현</a></td>
+      <td align="center"><a href="https://github.com/yjin-jo">조예진</a></td>
+      <td align="center"><a href="https://github.com/MinCodeHub">허민영</a></td>
     </tr>
   </table>
 </div>
