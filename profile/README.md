@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/IRECIPE/IRecipe-Server/assets/90559205/465fcf95-f824-4de2-a1f4-3ea7127c85ee](https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/e8d64401-4e07-45d5-abd1-923abf6a17d4)">
+  <img src="![화면 캡처 2024-07-08 231353](https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/e8d64401-4e07-45d5-abd1-923abf6a17d4)">
 </p>
 
 ## [📱 WEB] 영화 리뷰 모음집, MOVIE.ZIP (2024.03 ~ 2024.06)
