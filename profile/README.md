@@ -33,10 +33,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://avatars.githubusercontent.com/Iaminjae" width="100" height="100" /></td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/longrunBiin" width="100" height="100" /></td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/jun23314" width="100" height="100" /></td>
-      <td align="center"><img src="https://avatars.githubusercontent.com/alsrudursla" width="100" height="100" /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/ldyaun" width="100" height="100" /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/somflower" width="100" height="100" /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/yjin-jo" width="100" height="100" /></td>
+      <td align="center"><img src="https://avatars.githubusercontent.com/MinCodeHub" width="100" height="100" /></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/ldyaun">이다윤</a></td>
