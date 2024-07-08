@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## [📱 WEB] 영화 리뷰 모음집, MOVIE.ZIP (2024.03 ~ 2024.06)
+## [💻 WEB] 영화 리뷰 모음집, MOVIE.ZIP (2024.03 ~ 2024.06)
 <p align="center">
   <img src="https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/8f2ead82-be3e-4fb0-a2ec-04430d1a8cf5">
 </p>
