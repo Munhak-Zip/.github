@@ -4,9 +4,7 @@
 <br>
 ## [📱 WEB] 영화 리뷰 모음집, MOVIE.ZIP (2024.03 ~ 2024.06)
 <p align="center">
- <a 시연영>
-    <img src="https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/1ee74c70-f089-4c75-8162-837bc850f44b">
-  </a>
+  <img src="https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/1ee74c70-f089-4c75-8162-837bc850f44b">
 </p>
 <br>
 
