@@ -4,7 +4,7 @@
 <br>
 ## [📱 WEB] 영화 리뷰 모음집, MOVIE.ZIP (2024.03 ~ 2024.06)
 <p align="center">
-  <img src="https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/dd1a2c78-049e-4c7a-af31-19f9f951fb61">
+  <img src="https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/96689ec4-1f63-4c41-beea-41642de6f23c">
 </p>
 <br>
 
