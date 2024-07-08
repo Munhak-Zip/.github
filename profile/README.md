@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="![화면 캡처 2024-07-08 231353](https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/e8d64401-4e07-45d5-abd1-923abf6a17d4)">
+  <img src="https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/e8d64401-4e07-45d5-abd1-923abf6a17d4" alt="화면 캡처 2024-07-08 231353">
 </p>
-
+<br>
 ## [📱 WEB] 영화 리뷰 모음집, MOVIE.ZIP (2024.03 ~ 2024.06)
 <p align="center">
  <a href="https://github.com/Munhak-Zip/Moviezip_Back/assets/110006845/1ee74c70-f089-4c75-8162-837bc850f44b">
